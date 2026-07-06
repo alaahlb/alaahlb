@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alaa Halabi
 
-I'm a **Software Engineer & Digital Systems Builder** focused on creating modern, high-performance web applications, internal tools, and automation-driven platforms.
+I'm a **Software and AI Engineer & Digital Systems Builder** focused on creating modern, high-performance web applications, internal tools, and automation-driven platforms.
 
 I turn ideas into production-ready software — clean, scalable, and designed to solve real problems.
 
@@ -103,4 +103,4 @@ I turn ideas into production-ready software — clean, scalable, and designed to
 
 ## ⚡ Fun Fact
 
-I enjoy building systems that automate boring work and turn ideas into real, usable products.
+I enjoy building systems that automate boring work and turn ideas into real, usable products. Obsessed with creating software that is controller from one place and is well organized and saves time.
