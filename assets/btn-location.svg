@@ -1,23 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 232 36" width="232" height="36" role="img" aria-label="Based in the United Arab Emirates — connect on LinkedIn">
   <!--
     Hand-authored (not produced by gen-buttons.js).
-    A full-bleed flag can't carry white text: the white band leaves nothing to
-    read against. So the flag's three bands tint the ground at 16% over navy,
-    and a crisp 44x22 flag - true 2:1, red hoist at exactly 1/4 - sits in the
-    icon slot. Worst case under the label is the white band at ~#343C4B, 10.5:1.
+    Ground is the cyan end of the button ramp, matching its siblings. The flag
+    carries the identity from the icon slot: a true 2:1 UAE flag, red hoist at
+    exactly 1/4 width. Its bands also tint the ground at 8% - enough to read as
+    flag colours up close, light enough to leave the gradient intact.
   -->
   <defs>
     <clipPath id="r"><rect x="0" y="0" width="232" height="36" rx="9"/></clipPath>
     <clipPath id="chip"><rect x="15" y="7" width="44" height="22" rx="3"/></clipPath>
     <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#16243F"/>
-      <stop offset="100%" stop-color="#0D1526"/>
+      <stop offset="0%" stop-color="#0EA5E9"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
     </linearGradient>
   </defs>
 
   <g clip-path="url(#r)">
     <rect x="0" y="0" width="232" height="36" fill="url(#ground)"/>
-    <g opacity="0.16">
+    <g opacity="0.08">
       <rect x="0" y="0"  width="232" height="12" fill="#00732F"/>
       <rect x="0" y="12" width="232" height="12" fill="#FFFFFF"/>
       <rect x="0" y="24" width="232" height="12" fill="#000000"/>
@@ -30,8 +30,8 @@
     <rect x="26" y="21.666" width="33" height="7.334" fill="#000000"/>
     <rect x="15" y="7"      width="11" height="22"    fill="#FF0000"/>
   </g>
-  <rect x="15.5" y="7.5" width="43" height="21" rx="2.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.45"/>
+  <rect x="15.5" y="7.5" width="43" height="21" rx="2.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55"/>
 
-  <rect x="0.5" y="0.5" width="231" height="35" rx="8.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.24"/>
+  <rect x="0.5" y="0.5" width="231" height="35" rx="8.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/>
   <text x="68" y="23.2" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0.1" textLength="146.8" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">United Arab Emirates</text>
 </svg>
