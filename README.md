@@ -1,106 +1,157 @@
-# 👋 Hi, I'm Alaa Halabi
+<!--
+  Profile README — alaahlb
+  All artwork is hand-built SVG in /assets (dark + light variants where it matters).
+  No external services: nothing here breaks if a badge CDN goes down.
+  Edit the words in this file; edit colours and type in the SVGs.
+-->
 
-I'm a **Software and AI Engineer & Digital Systems Builder** focused on creating modern, high-performance web applications, internal tools, and automation-driven platforms.
+<div align="center">
 
-I turn ideas into production-ready software — clean, scalable, and designed to solve real problems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/hero-light.svg">
+  <img width="100%" alt="Alaa Halabi — Software & AI Engineer, Digital Systems Builder" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/hero-light.svg">
+</picture>
 
----
+<br><br>
 
-## 🚀 What I Do
+<a href="https://www.linkedin.com/in/alaahlb"><img height="36" alt="Connect on LinkedIn" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-linkedin.svg"></a>
+&nbsp;
+<a href="https://github.com/alaahlb?tab=repositories"><img height="36" alt="Browse projects on GitHub" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-projects.svg"></a>
+&nbsp;
+<img height="36" alt="Based in the United Arab Emirates" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-location.svg">
 
-- Build modern web applications with performance, accessibility, and UX in mind
-- Design clean, maintainable frontend architectures
-- Develop internal tools, dashboards, and automation systems
-- Bridge engineering, product, and business needs
+<br><br>
 
----
+<img width="100%" alt="" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/divider.svg">
 
-## 🛠 Tech Stack
+</div>
 
-**Languages & Core**
-- HTML
-- CSS
-- JavaScript
+<br>
 
-**Frameworks & Libraries**
-- React
-- Next.js
-- Tailwind CSS
+### I build software that removes work instead of adding it.
 
-**Practices**
-- Component-driven development
-- Responsive & mobile-first design
-- SEO-aware frontend architecture
-- Performance optimization
-- Clean, maintainable code
+Almost everything I make lands in one of three buckets — **web apps** people actually enjoy using, **internal tools** that quietly retire a spreadsheet and four manual steps, and **automation** that keeps running long after I close the laptop.
 
----
+The goal never really changes: one place to control everything, and less boring work waiting tomorrow.
 
-## 🧩 Engineering Values
+<br>
 
-- Clarity over cleverness
-- Maintainability over hacks
-- Systems over scripts
-- Long-term scalability over short-term wins
+### The stack I reach for
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/stack-light.svg">
+  <img width="100%" alt="Stack: HTML, CSS, JavaScript, React, Next.js, Tailwind CSS" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/stack-light.svg">
+</picture>
 
-## ⭐ Work In Progress Projects
+<sub>**Also in the toolkit** &nbsp;·&nbsp; component-driven architecture &nbsp;·&nbsp; responsive, mobile-first layouts &nbsp;·&nbsp; SEO-aware frontends &nbsp;·&nbsp; performance budgets &nbsp;·&nbsp; code written to be refactored</sub>
 
-- **Blog Writer** — Automates blog writing and makes it easier for a one man team to write SEO friendly blogs.
-- **UGC Reels Creator** — Creating customized realistic videos to boost sales, can be also effective to TikTok Shop affiliates.
-- **Idea Validator** — Validates if a business idea or topic is worth persuing.
+<br>
 
----
+### Building right now
 
-## 🔭 Currently Working On
+<table>
+<tr>
+<td width="33.33%" valign="top">
 
-- Building modern apps with React, Next.js, and Tailwind CSS
-- Developing internal tools and automation systems
-- Improving system architecture and performance
+**Blog Writer**
 
----
+Takes a topic and returns an SEO-ready post, end to end — so a one-person team can publish like a content department.
 
-## 🌱 Currently Learning
+<img height="24" alt="Status: building" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/tag-building.svg">
 
-- Backend architecture and APIs
+</td>
+<td width="33.33%" valign="top">
+
+**UGC Reels Creator**
+
+Generates realistic, customised short-form video built to sell. Aimed at brands and TikTok Shop affiliates.
+
+<img height="24" alt="Status: building" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/tag-building.svg">
+
+</td>
+<td width="33.33%" valign="top">
+
+**Idea Validator**
+
+Pressure-tests a business idea before it eats six months — is this actually worth pursuing, and why not?
+
+<img height="24" alt="Status: building" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/tag-building.svg">
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+<img width="100%" alt="" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/divider.svg">
+</div>
+
+<br>
+
+### How I work
+
+> **Clarity over cleverness.** Code is read far more often than it is written.
+>
+> **Maintainability over hacks.** A shortcut today is a support ticket in March.
+>
+> **Systems over scripts.** If it happens twice, it should run itself.
+>
+> **Long-term scalability over short-term wins.** Build the version that survives success.
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Currently learning**
+
+- Backend architecture and API design
 - Databases and scalable system design
 - AI integrations and automation workflows
-  
----
 
-## 👯 Open to Collaborate On
+</td>
+<td width="50%" valign="top">
 
-- Frontend and full-stack products
-- SaaS tools and internal platforms
-- Productivity, automation, and developer tooling
+**Ask me about**
 
----
+- React, Next.js and frontend architecture
+- UI/UX, performance and honest refactoring
+- Internal tools that people keep using
 
-## 💬 Ask Me About
+</td>
+</tr>
+</table>
 
-- React, Next.js, and frontend architecture
-- UI/UX, performance optimization, and clean code refractoring
-- Building scalable internal tools and systems
+<br>
 
----
+### What you'll find in here
 
-## 📂 What You'll Find Here
+Frontend projects built with React, Next.js and Tailwind &nbsp;·&nbsp; reusable UI components and small design systems &nbsp;·&nbsp; experiments, prototypes and automation ideas &nbsp;·&nbsp; side projects aimed squarely at saving time.
 
-- Frontend projects built with React, Next.js, and Tailwind
-- Reusable UI components and design systems
-- Experimental tools, prototypes, and automation ideas
-- Side projects focused on productivity and systems thinking
+**Open to collaborating on** frontend and full-stack products, SaaS and internal platforms, and anything in productivity, automation or developer tooling.
 
----
+<br>
 
-## 📫 Get in Touch
+<div align="center">
 
-- GitHub: https://github.com/alaahlb
-- LinkedIn / Portfolio: www.linkedin.com/in/alaahlb
+<img width="100%" alt="" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/divider.svg">
 
----
+<br><br>
 
-## ⚡ Fun Fact
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/footer-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/footer-light.svg">
+  <img width="100%" alt="Open to collaborate — github.com/alaahlb · linkedin.com/in/alaahlb" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/footer-light.svg">
+</picture>
 
-I enjoy building systems that automate boring work and turn ideas into real, usable products. Obsessed with creating software that is controller from one place and is well organized and saves time.
+<br><br>
+
+<a href="https://www.linkedin.com/in/alaahlb"><img height="36" alt="Connect on LinkedIn" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-linkedin.svg"></a>
+&nbsp;
+<a href="https://github.com/alaahlb"><img height="36" alt="Follow @alaahlb on GitHub" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-follow.svg"></a>
+
+</div>

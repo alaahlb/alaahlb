@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Open to collaborate — github.com/alaahlb and linkedin.com/in/alaahlb">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="52%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+    <linearGradient id="headline" gradientUnits="userSpaceOnUse" x1="300" y1="0" x2="900" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="180" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="1200" height="180" fill="#080B12"/>
+    <rect width="1200" height="180" fill="url(#grid)"/>
+    <ellipse cx="600" cy="200" rx="520" ry="190" fill="url(#glow)"/>
+    <g text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif">
+      <text x="600" y="58" font-size="15" font-weight="600" letter-spacing="3.8" fill="#8B93B8">OPEN TO COLLABORATE</text>
+      <text x="600" y="112" font-size="34" font-weight="700" letter-spacing="-0.5" fill="url(#headline)">Let&#8217;s build something that runs without you.</text>
+      <text x="600" y="150" font-size="17" font-weight="400" fill="#7C86A8">github.com/alaahlb &#160;&#183;&#160; linkedin.com/in/alaahlb</text>
+    </g>
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="179" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.09"/>
+</svg>

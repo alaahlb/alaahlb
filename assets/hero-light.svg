@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Alaa Halabi — Software and AI Engineer, Digital Systems Builder">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="52%" stop-color="#6366F1"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <linearGradient id="nameFill" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#6D28D9"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="hubGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C3AED" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#0F172A" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="300" rx="20"/></clipPath>
+    <clipPath id="ruleClip"><rect x="72" y="234" width="196" height="5" rx="2.5"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="300" fill="#FDFDFF"/>
+    <rect width="1200" height="300" fill="url(#grid)"/>
+    <ellipse cx="120" cy="10" rx="440" ry="270" fill="url(#glowA)"/>
+    <ellipse cx="1090" cy="300" rx="430" ry="250" fill="url(#glowB)"/>
+
+    <!-- system graph -->
+    <g stroke="#6366F1" stroke-opacity="0.30" stroke-width="1" fill="none">
+      <path d="M836 118 L930 66 L1046 96 L1130 158 L1024 186 L912 200 Z"/>
+      <path d="M836 118 L952 138 M930 66 L952 138 M1046 96 L952 138 M1024 186 L952 138 M912 200 L952 138"/>
+      <path d="M912 200 L820 226 L836 118 M1024 186 L1058 246 L912 200"/>
+    </g>
+    <circle cx="952" cy="138" r="34" fill="url(#hubGlow)"/>
+    <g fill="#6366F1">
+      <circle cx="836" cy="118" r="3.6"><animate attributeName="opacity" values="0.45;1;0.45" dur="4s" repeatCount="indefinite"/></circle>
+      <circle cx="930" cy="66"  r="3.6"><animate attributeName="opacity" values="1;0.4;1" dur="5.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1046" cy="96" r="3.6"><animate attributeName="opacity" values="0.55;1;0.55" dur="6.5s" repeatCount="indefinite"/></circle>
+      <circle cx="1130" cy="158" r="3"/>
+      <circle cx="1024" cy="186" r="3.6"><animate attributeName="opacity" values="1;0.45;1" dur="4.8s" repeatCount="indefinite"/></circle>
+      <circle cx="912" cy="200" r="3.6"/>
+      <circle cx="820" cy="226" r="3"/>
+      <circle cx="1058" cy="246" r="3"><animate attributeName="opacity" values="0.4;1;0.4" dur="7s" repeatCount="indefinite"/></circle>
+    </g>
+    <circle cx="952" cy="138" r="7" fill="#7C3AED"/>
+    <circle cx="952" cy="138" r="12" fill="none" stroke="#7C3AED" stroke-opacity="0.4" stroke-width="1">
+      <animate attributeName="r" values="10;20;10" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.45;0;0.45" dur="4.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#0891B2">
+      <animateMotion dur="6s" repeatCount="indefinite" path="M836,118 L952,138 L1046,96 L1130,158"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="3" fill="#7C3AED">
+      <animateMotion dur="8s" repeatCount="indefinite" path="M1058,246 L912,200 L836,118 L930,66"/>
+      <animate attributeName="opacity" values="0;1;1;0" dur="8s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- copy -->
+    <text x="72" y="92" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="3.8" fill="#7A83A6">SOFTWARE &amp; AI ENGINEER &#183; DIGITAL SYSTEMS BUILDER</text>
+    <text x="72" y="166" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-1.5" fill="url(#nameFill)">Alaa Halabi</text>
+    <text x="72" y="208" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="21" font-weight="400" fill="#4B5675">Web apps, internal tools, and automation that runs itself.</text>
+
+    <rect x="72" y="234" width="196" height="5" rx="2.5" fill="url(#accent)"/>
+    <g clip-path="url(#ruleClip)">
+      <rect x="-90" y="234" width="90" height="5" fill="url(#sweep)">
+        <animate attributeName="x" values="-90;268" dur="3.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <rect x="0" y="0" width="1200" height="3" fill="url(#accent)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="1199" height="299" rx="20" fill="none" stroke="#0F172A" stroke-opacity="0.10"/>
+</svg>
