@@ -19,7 +19,7 @@
 &nbsp;
 <a href="https://github.com/alaahlb?tab=repositories"><img height="36" alt="Browse projects on GitHub" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-projects.svg"></a>
 &nbsp;
-<img height="36" alt="Based in the United Arab Emirates" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-location.svg">
+<a href="https://www.linkedin.com/in/alaahlb"><img height="36" alt="Based in the United Arab Emirates — connect on LinkedIn" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-location.svg"></a>
 
 <br>
 
