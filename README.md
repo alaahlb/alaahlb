@@ -21,6 +21,10 @@
 &nbsp;
 <img height="36" alt="Based in the United Arab Emirates" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-location.svg">
 
+<br>
+
+<a href="mailto:alaahalabibusiness@gmail.com"><img height="36" alt="Email alaahalabibusiness@gmail.com" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-email.svg"></a>
+
 <br><br>
 
 <img width="100%" alt="" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/divider.svg">
@@ -151,6 +155,8 @@ Frontend projects built with React, Next.js and Tailwind &nbsp;·&nbsp; reusable
 <br><br>
 
 <a href="https://www.linkedin.com/in/alaahlb"><img height="36" alt="Connect on LinkedIn" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-linkedin.svg"></a>
+&nbsp;
+<a href="mailto:alaahalabibusiness@gmail.com"><img height="36" alt="Email alaahalabibusiness@gmail.com" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-email.svg"></a>
 &nbsp;
 <a href="https://github.com/alaahlb"><img height="36" alt="Follow @alaahlb on GitHub" src="https://raw.githubusercontent.com/alaahlb/alaahlb/main/assets/btn-follow.svg"></a>
 
