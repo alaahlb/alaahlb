@@ -5,6 +5,7 @@
     carries the identity from the icon slot: a true 2:1 UAE flag, red hoist at
     exactly 1/4 width. Its bands also tint the ground at 8% - enough to read as
     flag colours up close, light enough to leave the gradient intact.
+    Label is dark ink (#062A36): white on this cyan measured only 1.9:1.
   -->
   <defs>
     <clipPath id="r"><rect x="0" y="0" width="232" height="36" rx="9"/></clipPath>
@@ -30,8 +31,8 @@
     <rect x="26" y="21.666" width="33" height="7.334" fill="#000000"/>
     <rect x="15" y="7"      width="11" height="22"    fill="#FF0000"/>
   </g>
-  <rect x="15.5" y="7.5" width="43" height="21" rx="2.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.55"/>
+  <rect x="15.5" y="7.5" width="43" height="21" rx="2.5" fill="none" stroke="#062A36" stroke-opacity="0.50"/>
 
-  <rect x="0.5" y="0.5" width="231" height="35" rx="8.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/>
-  <text x="68" y="23.2" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0.1" textLength="146.8" lengthAdjust="spacingAndGlyphs" fill="#FFFFFF">United Arab Emirates</text>
+  <rect x="0.5" y="0.5" width="231" height="35" rx="8.5" fill="none" stroke="#062A36" stroke-opacity="0.24"/>
+  <text x="68" y="23.2" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="600" letter-spacing="0.1" textLength="146.8" lengthAdjust="spacingAndGlyphs" fill="#062A36">United Arab Emirates</text>
 </svg>

@@ -7,7 +7,7 @@
   </defs>
   <rect x="0" y="0" width="200" height="36" rx="9" fill="url(#g)"/>
   <rect x="0.5" y="0.5" width="199" height="35" rx="8.5" fill="none" stroke="#FFFFFF" stroke-opacity="0.22"/>
-  <g transform="translate(15,9.5)"><g transform="translate(0,0)">
+  <g transform="translate(15,9.5)"><g>
       <rect x="0" y="0" width="17" height="17" rx="3.4" fill="#FFFFFF"/>
       <text x="8.5" y="12.6" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="10.5" font-weight="700" fill="#7C3AED">in</text>
     </g></g>
